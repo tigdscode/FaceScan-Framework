@@ -20,6 +20,3 @@ A proposta do projeto é de ser um sistema opensource de reconhecimento facial e
 <br>
 <h2>INTERFACE:</h2>
 <p>O FaceScan Framework se propõe a ser um sistema tipo suite, ou seja o programa integra todo algoritmo de processamento de imagens além de um banco de dados de imagens e informações de cada individio que for inserido no sistema.
-
-<br>
-<h2>
