@@ -15,7 +15,13 @@ A proposta do projeto é de ser um sistema opensource de reconhecimento facial e
 </div>
 <br>
 <h2>OBJETIVO:</h2>
-<p> O objetivo do projeto é ser um sistema completo de reconhecimento facial, processamento e controle de dados e informações.
+<p> O FaceScan Framework é uma suíte de reconhecimento facial de código aberto que tem como objetivo fornecer uma ferramenta poderosa para a identificação de pessoas em imagens e vídeos. O software utiliza um banco de dados para armazenar imagens e a biblioteca OpenCV para realizar o reconhecimento facial. Além disso, o FaceScan Framework é projetado para ser utilizado por profissionais de segurança e pesquisadores florense para fins educacionais e de estudo.
+
+O principal objetivo do FaceScan Framework é ajudar a tornar o mundo um lugar mais seguro e confiável. Com sua capacidade de identificar pessoas em imagens e vídeos, o software pode ajudar na prevenção de crimes, além de facilitar a busca de informações em grandes bancos de dados de imagens.
+
+No entanto, é importante lembrar que o uso responsável do FaceScan Framework é fundamental. Por isso, ele deve ser utilizado apenas para fins éticos e legais, e apenas por profissionais de segurança e pesquisadores que possuem as habilidades necessárias para utilizar a ferramenta de forma adequada.
+
+Em resumo, o FaceScan Framework é um software de reconhecimento facial que tem como objetivo fornecer uma ferramenta poderosa para ajudar na identificação de pessoas em imagens e vídeos, mas que deve ser utilizado com responsabilidade e ética.
 
 <br>
 <h2>INTERFACE:</h2>
