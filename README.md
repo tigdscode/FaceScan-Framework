@@ -23,6 +23,16 @@ No entanto, é importante lembrar que o uso responsável do FaceScan Framework �
 
 Em resumo, o FaceScan Framework é um software de reconhecimento facial que tem como objetivo fornecer uma ferramenta poderosa para ajudar na identificação de pessoas em imagens e vídeos, mas que deve ser utilizado com responsabilidade e ética.
 
+<div align= center>
+<img src="https://user-images.githubusercontent.com/53381041/222209313-800216fe-a200-4490-8a21-d5fc87c2ec5d.png" width="500px"/>
+</div>
+
+
+
+
+
+
+
 <br>
 <h2>INTERFACE:</h2>
 <p>O FaceScan Framework se propõe a ser um sistema tipo suite, ou seja o programa integra todo algoritmo de processamento de imagens além de um banco de dados de imagens e informações de cada individio que for inserido no sistema.
